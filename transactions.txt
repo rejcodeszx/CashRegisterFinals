@@ -1,0 +1,27 @@
+
+========= NEW TRANSACTION =========
+Cashier: ronaemeJean19
+Customer: rona eme jean
+Date: 2025-06-06
+Time: 12:35:53
+Items:
+2 x cookies n cream @ 100.00 = 200.00
+1 x coffee crumble @ 110.00 = 110.00
+3 x pistachio cashew @ 120.00 = 360.00
+2 x rocky road @ 130.00 = 260.00
+1 x double dutch @ 140.00 = 140.00
+Total: PHP 1070.00
+===================================
+
+========= NEW TRANSACTION =========
+Cashier: ronaemeJean19
+Customer: rona anne divina
+Date: 2025-06-06
+Time: 12:37:01
+Items:
+2 x cookies n cream  @ 100.00 = 200.00
+1 x coffee crumble @ 110.00 = 110.00
+1 x pistachio cashew @ 120.00 = 120.00
+2 x double dutch @ 140.00 = 280.00
+Total: PHP 710.00
+===================================
